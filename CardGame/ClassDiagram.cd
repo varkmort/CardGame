@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLocic::Card">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAgAAAAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLocic::Deck">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQABAAABAgAAAAAIAAAAAQAAAAAQAAAAAAAAAIAAA=</HashCode>
+      <FileName>Deck.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLocic::Hand">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQCACAEAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAA=</HashCode>
+      <FileName>Hand.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLocic::ARules">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAMAAAAAEAAAAAgAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Rules.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLocic::Table">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAQAAAIQAgACAAABAAAAQBAAAAAAAA=</HashCode>
+      <FileName>Table.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLocic::AControle">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controle.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLocic::Gambler">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAACAAAAAQAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Gambler.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLocic::Dealer">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAIAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dealer.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
